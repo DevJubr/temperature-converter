@@ -35,3 +35,18 @@ box-shadow: inset 7px 7px 14px #e6e6e6,
     margin-top: 1rem;
     font-family: 'Fredoka One', cursive;
 }
+
+@media only screen and (max-width: 400px) {
+ .con{
+        width: 450px;
+        height: 200px;
+}
+ input{
+         padding: 0.5rem;
+    margin-top: 0.7rem;
+    }
+    label{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'Fredoka One', cursive;
+}
